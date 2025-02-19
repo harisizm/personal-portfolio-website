@@ -1,3 +1,3 @@
-divs? id for divs
-containers
-css 
+next update
+add logo,bg,photos,phone size bg photo
+links to pof
